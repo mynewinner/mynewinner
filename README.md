@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm Winner, a passionate software developer and technology enthusiast with a strong background in [Your Specialization, e.g., Full-Stack Development, Data Science, AI/ML]. I thrive on tackling complex problems and turning innovative ideas into reality through code.
+👋 Hi there! I'm Winner, a passionate software developer and technology enthusiast with a strong background. I thrive on tackling complex problems and turning innovative ideas into reality through code.
 
 🚀 Skills & Expertise
 Languages: Python, JavaScript, TypeScript, C++, Java
@@ -16,4 +16,4 @@ Website: http://winno.hstn.me/
 Email: mynewinner@gmail.com
 Youtube : https://www.youtube.com/@Winner.invention
 🌟 Fun Fact
-When I'm not coding, you can find me [Your Hobbies, e.g., hiking, playing the guitar, or exploring new coffee shops].
+When I'm not coding, you can find me hiking, playing the guitar, or exploring new coffee shops.
